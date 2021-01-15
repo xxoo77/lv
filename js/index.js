@@ -3,7 +3,7 @@ $(function() {
 		
 		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
-			'name':'看完整版下载这个',
+			'name':'视频完整版',
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
