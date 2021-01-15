@@ -2,9 +2,9 @@ $(function() {
 	var navlist = [
 		
 		{
-			'icon':'https://dss1.bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1000/png/导航List_京东.png',
-			'name':'京东',
-			'url':'https://www.jd.com',
+			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
+			'name':'杏吧破解版',
+			'url':'http://www.ccav18.net/go/66',
 		},
 		{
 			'icon':'images/icon1.png',
