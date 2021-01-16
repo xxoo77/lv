@@ -29,7 +29,7 @@ $(function() {
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/73daeab17d4c70e0097874298ed3ee3f.png',
 			'name':'汤头条',
-			'url':'https://ttt.tangbr.info/chan/a10141/xme3',
+			'url':'https://ttt.tangbr.net/chan/a10141/xme3',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/e9d6dde82d77cc8368a96917d68c5a3f.png',
