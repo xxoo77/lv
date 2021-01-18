@@ -28,7 +28,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
-			'name':'全网黑料',
+			'name':'郑爽点这',
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
@@ -43,7 +43,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200724/401535e9c034d8780908fff837ecf1f2.png',
-			'name':'91约炮神器',
+			'name':'约炮神器',
 			'url':'https://yhacc.live?dc=MH',
 		},
 		{
