@@ -28,7 +28,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
-			'name':'杏吧破解版',
+			'name':'全网黑料',
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
