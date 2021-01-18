@@ -48,7 +48,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
-			'name':'茶馆儿',
+			'name':'兼职女',
 			'url':'https://site.tea123.me/?code=eTdu&c=333',
 		},
 		{
