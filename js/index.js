@@ -3,7 +3,7 @@ $(function() {
 		
 		{
 			'icon':'https://www.yy2.lv/uploads/20201219/d984667dbd0561e5b9957a2de5f8e634.jpg',
-			'name':'爸爸，点我',
+			'name':'爸爸点我',
 			'url':'https://mtdasp.me?ch=mu',
 		},
 		{
