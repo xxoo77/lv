@@ -32,6 +32,21 @@ $(function() {
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
+			'icon':'https://www.yy2.lv/uploads/20200912/d59cb0a6a54172068ce4ea1586363963.jpg',
+			'name':'泡芙',
+			'url':'https://ppffz.me?dc=MH',
+		},
+		{
+			'icon':'https://www.yy2.lv/uploads/20200724/401535e9c034d8780908fff837ecf1f2.png',
+			'name':'91约炮神器',
+			'url':'https://yhacc.live?dc=MH',
+		},
+		{
+			'icon':'https://www.18se.biz/upimg/applogos/20201201/20201201210841258.png',
+			'name':'色中色',
+			'url':'https://51sis.vip?dc=MH',
+		},
+		{
 			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
 			'name':'茶馆儿',
 			'url':'https://site.tea123.me/?code=eTdu&c=333',
