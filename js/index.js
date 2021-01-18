@@ -2,8 +2,33 @@ $(function() {
 	var navlist = [
 		
 		{
+			'icon':'https://www.yy2.lv/uploads/20201219/d984667dbd0561e5b9957a2de5f8e634.jpg',
+			'name':'爸爸，点我',
+			'url':'https://mtdasp.me?ch=mu',
+		},
+		{
+			'icon':'https://www.yy2.lv/uploads/20200724/e41838ef67b29404b5681debe6cf291a.jpg',
+			'name':'草榴',
+			'url':'https://dxzcs.me?ch=mu',
+		},
+		{
+			'icon':'https://www.yy2.lv/uploads/20200908/e6162d1d515d153d3b6162cddedcbc47.jpg',
+			'name':'抖阴',
+			'url':'https://20dy.me?channel=dy20cps',
+		},
+		{
+			'icon':'https://www.yy2.lv/uploads/20200825/a3e129f529a4a5df2a29fe627d355b90.jpg',
+			'name':'抖阴国际',
+			'url':'https://dou1.me?channel=dy204zc',
+		},
+		{
+			'icon':'https://www.yy2.lv/uploads/20201126/1a711951de5c986df73332fa49230785.jpg',
+			'name':'精东',
+			'url':'http://jdhot1.me?_c=jd2108s',
+		},
+		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
-			'name':'视频完整版',
+			'name':'杏吧破解版',
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
