@@ -32,7 +32,7 @@ $(function() {
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
-			'icon':'https://pbs.twimg.com/profile_images/1217861599395905538/9Mlmh5_p_400x400.jpg',
+			'icon':'https://www.yy2.lv/uploads/20200826/72bafc1de0447b3252029ff856d49542.jpg',
 			'name':'香蕉',
 			'url':'https://www.anxnr.com/downloadEx/index.html?invite_code=50HBM2&_t=kk3ivq0e&',
 		},
