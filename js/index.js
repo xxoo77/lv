@@ -34,7 +34,7 @@ $(function() {
 		{
 			'icon':'https://pbs.twimg.com/profile_images/1217861599395905538/9Mlmh5_p_400x400.jpg',
 			'name':'香蕉',
-			'url':'https://www.anxnr.com/downloadEx/index.html?invite_code=S0HBMB&_t=kk2pbz12&',
+			'url':'https://www.anxnr.com/downloadEx/index.html?invite_code=50HBM2&_t=kk3ivq0e&',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200912/d59cb0a6a54172068ce4ea1586363963.jpg',
