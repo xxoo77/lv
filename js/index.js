@@ -28,7 +28,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
-			'name':'郑爽点这',
+			'name':'杏吧',
 			'url':'http://www.ccav18.net/go/66',
 		},
 		{
@@ -53,12 +53,12 @@ $(function() {
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
-			'name':'六百外围',
+			'name':'楼凤',
 			'url':'https://site.tea123.me/?code=eTdu&c=333',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/842846dfbd4ef878c8d98dd0b822da84.png',
-			'name':'91快手',
+			'name':'快手成人',
 			'url':'https://zb.91tvapi.me/chan/k10165/a5GN8',
 		},
 		{
