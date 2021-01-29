@@ -22,9 +22,9 @@ $(function() {
 			'url':'https://dou1.me?channel=dy204zc',
 		},
 		{
-			'icon':'https://www.yy2.lv/uploads/20201126/1a711951de5c986df73332fa49230785.jpg',
-			'name':'精东',
-			'url':'http://jdhot1.me?_c=jd2108s',
+			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
+			'name':'楼凤',
+			'url':'https://site.tea123.me/?code=eTdu&c=333',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200928/b4f8c647078178590affcadf6815d8be.png',
@@ -52,9 +52,9 @@ $(function() {
 			'url':'https://51sis.vip?dc=MH',
 		},
 		{
-			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
-			'name':'楼凤',
-			'url':'https://site.tea123.me/?code=eTdu&c=333',
+			'icon':'https://www.yy2.lv/uploads/20201126/1a711951de5c986df73332fa49230785.jpg',
+			'name':'精东',
+			'url':'http://jdhot1.me?_c=jd2108s',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200817/842846dfbd4ef878c8d98dd0b822da84.png',
@@ -85,6 +85,11 @@ $(function() {
 			'icon':'https://www.yy2.lv/uploads/20200817/d298eca0ac93acc0bae730978ac8fc69.png',
 			'name':'91短视频',
 			'url':'https://download.91porn005.me/chan-1130/aff-dR2T7',
+		},
+		{
+			'icon':'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fa1842.phobos.apple.com%2Fus%2Fr30%2FPurple6%2Fv4%2F44%2F4f%2F3b%2F444f3b9d-50ba-ad2b-7a23-92eed46c357e%2Fmzl.cfesyxjy.png&refer=http%3A%2F%2Fa1842.phobos.apple.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1614490875&t=cb9148a8b16fefced0d0ccdf52cf3987',
+			'name':'密码np5b',
+			'url':'https://pan.baidu.com/s/1F_ToopaolWnIlskJj1tKow',
 		},
 	];
 	
