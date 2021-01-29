@@ -88,8 +88,8 @@ $(function() {
 		},
 		{
 			'icon':'https://1.bp.blogspot.com/-nNM3afupt1k/VdrAm7SJbcI/AAAAAAAAAV0/i5u5wOQrMSg/s1600/%25E5%2585%258D%25E8%25B2%25BB.gif',
-			'name':'密码np5b',
-			'url':'https://pan.baidu.com/s/1F_ToopaolWnIlskJj1tKow',
+			'name':'密码7b2c',
+			'url':'https://yunpan.360.cn/surl_ySUGm2nVEqt',
 		},
 	];
 	
