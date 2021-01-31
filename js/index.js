@@ -88,8 +88,8 @@ $(function() {
 		},
 		{
 			'icon':'https://www.landenet.net/uploadfile/2016/0528/20160528102637548.png',
-			'name':'密码127d',
-			'url':'https://drive.google.com/file/d/17Cj5Osx7PgRwim_gEo7BwqyIBVhjXn0a/view?usp=sharing,%20https://drive.google.com/file/d/19B8WOtkaQCgJLUwSr909iI4-sdkzmLIR/view?usp=sharing,%20https://drive.google.com/file/d/1cFYZoYqIRzTOhweQgSl_wi1E8_WjCmC7/view?usp=sharing,%20https://drive.google.com/file/d/1dp0XmGMuJEP99FWsmHG66ivcmTZVw58z/view?usp=sharing,%20https://drive.google.com/file/d/1nDsjEGFmdgJCeIbCrba_H-J3MgRm-r5v/view?usp=sharing',
+			'name':'密码6efa',
+			'url':'https://yunpan.360.cn/surl_ySzur89ihTU',
 		},
 	];
 	
