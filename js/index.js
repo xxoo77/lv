@@ -22,7 +22,7 @@ $(function() {
 			'url':'https://dou1.me?channel=dy204zc',
 		},
 		{
-			'icon':'https://www.yy2.lv/uploads/20200817/969aaf4401f07c6c7ab4245108c59263.png',
+			'icon':'https://www.18se.biz/upimg/applogos/20200928/20200928150856424.gif',
 			'name':'楼凤',
 			'url':'https://site.tea123.me/?code=eTdu&c=333',
 		},
