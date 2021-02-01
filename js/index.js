@@ -88,8 +88,8 @@ $(function() {
 		},
 		{
 			'icon':'https://www.landenet.net/uploadfile/2016/0528/20160528102637548.png',
-			'name':'密码6efa',
-			'url':'https://yunpan.360.cn/surl_ySzur89ihTU',
+			'name':'密码2028',
+			'url':'https://yunpan.360.cn/surl_ySza7AcXmcU',
 		},
 	];
 	
