@@ -7,6 +7,11 @@ $(function() {
 			'url':'https://mtvdtd.xyz?ch=mu',
 		},
 		{
+			'icon':'https://www.18se.biz/upimg/applogos/20200905/20200905214109755.gif',
+			'name':'麻豆（推荐）',
+			'url':'https://mdapp07.com/?_c=sqs00058',
+		},
+		{
 			'icon':'https://www.yy2.lv/uploads/20200724/e41838ef67b29404b5681debe6cf291a.jpg',
 			'name':'草榴',
 			'url':'https://spavrx.xyz?ch=mu',
