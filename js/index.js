@@ -4,12 +4,12 @@ $(function() {
 		{
 			'icon':'https://www.yy2.lv/uploads/20201219/d984667dbd0561e5b9957a2de5f8e634.jpg',
 			'name':'爸爸点我',
-			'url':'https://mtdasp.me?ch=mu',
+			'url':'https://mtvdtd.xyz?ch=mu',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200724/e41838ef67b29404b5681debe6cf291a.jpg',
 			'name':'草榴',
-			'url':'https://dxzcs.me?ch=mu',
+			'url':'https://spavrx.xyz?ch=mu',
 		},
 		{
 			'icon':'https://www.yy2.lv/uploads/20200908/e6162d1d515d153d3b6162cddedcbc47.jpg',
