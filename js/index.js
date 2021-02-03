@@ -8,7 +8,7 @@ $(function() {
 		},
 		{
 			'icon':'https://www.18se.biz/upimg/applogos/20200905/20200905214109755.gif',
-			'name':'麻豆（推荐）',
+			'name':'麻豆推荐',
 			'url':'https://mdapp07.com/?_c=sqs00058',
 		},
 		{
