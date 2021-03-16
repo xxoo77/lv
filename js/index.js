@@ -47,7 +47,7 @@ $(function() {
 		{
 			'icon':'images/8.jpg',
 			'name':'香蕉',
-			'url':'https://www.anxnr.com/downloadEx/index.html?invite_code=50HBM2&_t=kk3ivq0e&',
+			'url':'https://www.shdfsi.com&',
 			'size': 0
 		},
 		{
