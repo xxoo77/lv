@@ -5,7 +5,7 @@ $(function() {
 		{
 			'icon':'images/1.jpg',
 			'name':'爸爸点我',
-			'url':'https://mtvdtd.xyz?ch=mu',
+			'url':'https://club.i50dh.info/chan/h50386/66Jy',
 			'size': 0
 		},
 		{
@@ -35,7 +35,7 @@ $(function() {
 		{
 			'icon':'images/6.gif',
 			'name':'楼凤',
-			'url':'https://site.tea123.me/?code=eTdu&c=333',
+			'url':'https://site.tea123.me/?code=6JHu&c=1138',
 			'size': 0
 		},
 		{
@@ -77,13 +77,13 @@ $(function() {
 		{
 			'icon':'images/13.png',
 			'name':'快手成人',
-			'url':'https://zb.91tvapi.me/chan/k10165/a5GN8',
+			'url':'https://zb.91tvapi.me/chan/k10431/bcMeB',
 			'size': 0
 		},
 		{
 			'icon':'images/14.png',
 			'name':'91AV',
-			'url':'https://app.aff91.com/chan-1108/aff-axa2B',
+			'url':'https://app.aff91.com/chbeFz4an-1294/aff-',
 			'size': 0
 		},
 		{
@@ -95,7 +95,7 @@ $(function() {
 		{
 			'icon':'images/16.png',
 			'name':'汤头条',
-			'url':'https://ttt.tangbr.net/chan/a10141/xme3',
+			'url':'http://ttt.tangbr.com/chan/a10435/afvQ4',
 			'size': 0
 		},
 		{
@@ -107,7 +107,7 @@ $(function() {
 		{
 			'icon':'images/18.png',
 			'name':'91短视频',
-			'url':'https://download.91porn005.me/chan-1130/aff-dR2T7',
+			'url':'http://download.91porn.tips/chan-1340/aff-eYh4e',
 			'size': 0
 		},
 		{
