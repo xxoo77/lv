@@ -95,7 +95,7 @@ $(function() {
 		{
 			'icon':'images/16.png',
 			'name':'汤头条',
-			'url':'http://ttt.tangbr.com/chan/a10435/afvQ4',
+			'url':'https://news.ttt001.net/chan/a10435/afvQ4',
 			'size': 0
 		},
 		{
