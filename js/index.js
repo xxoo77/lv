@@ -23,13 +23,13 @@ $(function() {
 		{
 			'icon':'images/4.jpg',
 			'name':'抖阴',
-			'url':'https://20dy.me?channel=dy20cps',
+			'url':'https://24dy.me/?channel=dy20cps',
 			'size': 0
 		},
 		{
 			'icon':'images/5.jpg',
 			'name':'抖阴国际',
-			'url':'https://dou1.me?channel=dy204zc',
+			'url':'https://dou4.me/?channel=dy204zc',
 			'size': 0
 		},
 		{
