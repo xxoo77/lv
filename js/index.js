@@ -101,7 +101,7 @@ $(function() {
 		{
 			'icon':'images/17.png',
 			'name':'蚂蚁VPN',
-			'url':'https://web.lanshuapi.com/c-333/a-a2Xkf',
+			'url':'jsq.laihuluwa.com/c-333/a-a2Xkf',
 			'size': 0
 		},
 		{
