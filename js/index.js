@@ -107,7 +107,7 @@ $(function() {
 		{
 			'icon':'images/18.png',
 			'name':'91短视频',
-			'url':'http://download.91porn.tips/chan-1340/aff-eYh4e',
+			'url':'http://download.91porn.love/chan-1340/aff-eYh4e',
 			'size': 0
 		},
 		{
