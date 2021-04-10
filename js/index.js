@@ -35,7 +35,7 @@ $(function() {
 		{
 			'icon':'images/6.gif',
 			'name':'楼凤',
-			'url':'https://site.tea123.me/?code=6JHu&c=1138',
+			'url':'https://site.51pc.info/?code=6JHu&c=1138',
 			'size': 0
 		},
 		{
