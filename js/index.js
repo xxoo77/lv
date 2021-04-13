@@ -5,7 +5,7 @@ $(function() {
 		{
 			'icon':'images/1.jpg',
 			'name':'爸爸点我',
-			'url':'https://club.i50dh.info/chan/h50386/66Jy',
+			'url':'https://club.i50dh.net/chan/h50386/66Jy',
 			'size': 0
 		},
 		{
