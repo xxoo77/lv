@@ -101,7 +101,7 @@ $(function() {
 		{
 			'icon':'images/17.png',
 			'name':'蚂蚁VPN',
-			'url':'jsq.laihuluwa.com/c-333/a-a2Xkf',
+			'url':'https://jsq2.laihuluwa.com/c-1138/a-aKSxm',
 			'size': 0
 		},
 		{
