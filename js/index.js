@@ -5,7 +5,7 @@ $(function() {
 		{
 			'icon':'images/1.jpg',
 			'name':'爸爸点我',
-			'url':'https://club.i50dh.net/chan/h50386/66Jy',
+			'url':'http://club.i50dh.net/chan/h50386/66Jy',
 			'size': 0
 		},
 		{
@@ -35,7 +35,7 @@ $(function() {
 		{
 			'icon':'images/6.gif',
 			'name':'楼凤',
-			'url':'https://site.51pc.info/?code=6JHu&c=1138',
+			'url':'http://site.tea-51.com/?code=6JHu&c=1138',
 			'size': 0
 		},
 		{
@@ -83,13 +83,13 @@ $(function() {
 		{
 			'icon':'images/14.png',
 			'name':'91AV',
-			'url':'https://app.aff91.com/chbeFz4an-1294/aff-',
+			'url':'http://download.aff91.com/chan-1294/aff-beFz4',
 			'size': 0
 		},
 		{
 			'icon':'images/15.png',
 			'name':'91滴滴',
-			'url':'https://download.91didi.xyz/chan-1025/aff-jbyC',
+			'url':'https://app.91didi.xyz/chan-1198/aff-zqhD',
 			'size': 0
 		},
 		{
