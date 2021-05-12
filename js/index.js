@@ -46,8 +46,8 @@ $(function() {
 		},
 		{
 			'icon':'images/8.jpg',
-			'name':'香蕉',
-			'url':'https://www.shdfsi.com&',
+			'name':'站长推荐',
+			'url':'https://mit002.me/?dc=mtxiaoer030',
 			'size': 0
 		},
 		{
@@ -109,18 +109,6 @@ $(function() {
 			'name':'91短视频',
 			'url':'http://download.91porn.love/chan-1340/aff-eYh4e',
 			'size': 0
-		},
-		{
-			'icon':'images/19.png',
-			'name':'密码2028',
-			'url':'https://yunpan.360.cn/surl_ySza7AcXmcU',
-			'size': 0
-		},
-		{
-			'icon':'images/2-1.png',
-			'name':'点爱攻略',
-			'url':'strategy.html',
-			'size': 2
 		},
 	];
 	var urllist = [];
