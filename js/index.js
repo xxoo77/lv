@@ -17,7 +17,7 @@ $(function() {
 		{
 			'icon':'images/3.jpg',
 			'name':'草榴',
-			'url':'https://spavrx.xyz?ch=mu',
+			'url':'https://spjugt.xyz?ch=zt01',
 			'size': 0
 		},
 		{
