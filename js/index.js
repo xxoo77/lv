@@ -45,7 +45,7 @@ $(function() {
 			'size': 0
 		},
 		{
-			'icon':'images/8.jpg',
+			'icon':'images/app.png',
 			'name':'站长推荐',
 			'url':'https://mit002.me/?dc=mtxiaoer030',
 			'size': 0
