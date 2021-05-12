@@ -53,19 +53,19 @@ $(function() {
 		{
 			'icon':'images/9.jpg',
 			'name':'泡芙',
-			'url':'https://ppffz.me?dc=MH',
+			'url':'http://pfdspm.me?dc=MH',
 			'size': 0
 		},
 		{
 			'icon':'images/10.png',
 			'name':'约炮神器',
-			'url':'https://yhacc.live?dc=MH',
+			'url':'https://91yph.me/?dc=MH',
 			'size': 0
 		},
 		{
 			'icon':'images/11.png',
 			'name':'色中色',
-			'url':'https://51sis.vip?dc=MH',
+			'url':'http://sispfb.me/?dc=MH',
 			'size': 0
 		},
 		{
