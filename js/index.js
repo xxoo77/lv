@@ -3,8 +3,8 @@ $(function() {
 	var navlist = [
 		
 		{
-			'icon':'images/1.jpg',
-			'name':'爸爸点我',
+			'icon':'images/50hui.png',
+			'name':'50度灰（重口）',
 			'url':'http://club.i50dh.net/chan/h50386/66Jy',
 			'size': 0
 		},
