@@ -105,9 +105,15 @@ $(function() {
 			'size': 0
 		},
 		{
-			'icon':'images/18.png',
+			'icon':'images/fl.PNG',
 			'name':'最新黑料1',
 			'url':'https://huobao666.lanzoui.com/b00ol147i',
+			'size': 0
+		},
+		{
+			'icon':'images/fl.PNG',
+			'name':'最新黑料2',
+			'url':'https://huobao666.lanzoui.com/b00olaulc',
 			'size': 0
 		},
 	];
