@@ -34,14 +34,8 @@ $(function() {
 		},
 		{
 			'icon':'images/6.gif',
-			'name':'楼凤',
+			'name':'站街女',
 			'url':'http://site.tea-51.com/?code=6JHu&c=1138',
-			'size': 0
-		},
-		{
-			'icon':'images/7.png',
-			'name':'杏吧',
-			'url':'http://www.ccav18.net/go/66',
 			'size': 0
 		},
 		{
@@ -108,6 +102,12 @@ $(function() {
 			'icon':'images/18.png',
 			'name':'91短视频',
 			'url':'http://download.91porn.love/chan-1340/aff-eYh4e',
+			'size': 0
+		},
+		{
+			'icon':'images/18.png',
+			'name':'最新黑料1',
+			'url':'https://huobao666.lanzoui.com/b00ol147i',
 			'size': 0
 		},
 	];
