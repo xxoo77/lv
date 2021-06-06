@@ -107,13 +107,13 @@ $(function() {
 		{
 			'icon':'images/fl.PNG',
 			'name':'最新黑料1',
-			'url':'https://huobao666.lanzoui.com/b00ol147i',
+			'url':'https://wwr.lanzoui.com/iVJONpv4vyf',
 			'size': 0
 		},
 		{
 			'icon':'images/fl.PNG',
 			'name':'最新黑料2',
-			'url':'https://huobao666.lanzoui.com/b00olaulc',
+			'url':'https://wwr.lanzoui.com/ieqI6pv4w6d',
 			'size': 0
 		},
 	];
